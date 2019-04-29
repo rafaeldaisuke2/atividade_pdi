@@ -7,7 +7,7 @@ imagem = cv2.imread("Croissant.jpg")
 
 #Exibir imagem jpg
 
-cv2.imshow("Imagem original JPG", imagem)
+cv2.imshow("Imagem original colorida JPG", imagem)
 
 cv2.waitKey(0)
 
