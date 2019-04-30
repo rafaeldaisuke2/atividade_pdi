@@ -17,4 +17,5 @@ for x in range(0, imagem.shape[0]): #percorre linhas da imagem
 
 # Exibir imagem jpg
 cv2.imshow("Imagem com Tom Cinza", imagem)
+
 cv2.waitKey(0)
