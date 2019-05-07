@@ -34,7 +34,7 @@ for i in range(0, 255):  # cor
 
 #plot do histograma em tons de cinza
 plt.figure()
-plt.title("Histograma tons de cinza")
+plt.title("Histograma tons de cinza referência")
 plt.xlabel("Intensidade")
 plt.ylabel("Qtde de Pixels")
 plt.plot(qtd_cores)
